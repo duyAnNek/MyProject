@@ -1,5 +1,5 @@
 # MyProject
-Nguyễn Duy An - 21015921 - DHKHMT17ATT
+Nguyen Duy An - 21015921 - DHKHMT17ATT
 
 I am a student of Information Technology, majoring in computer science at Ho Chi Minh City University of Industry.
 
